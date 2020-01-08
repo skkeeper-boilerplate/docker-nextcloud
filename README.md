@@ -20,5 +20,3 @@ docker run --rm -v nextcloud_db:/db -v nextcloud_data:/ndata -v c:/tmp/backup:/b
 
 
 ## References
-
-https://medium.com/@mannycodes/create-an-nginx-reverse-proxy-with-docker-a1c0aa9078f1
